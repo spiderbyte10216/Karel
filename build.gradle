@@ -1,0 +1,17 @@
+apply plugin: 'java'
+
+//sourceSets {
+//    main {
+//        java {
+//            srcDirs = ['src/main/java']
+//        }
+//        resources {
+//            srcDirs = ['src/main/resources']
+//        }
+//    }
+//}
+//
+//// Define dependencies from external libraries
+//dependencies {
+//    implementation files('build/libs/karel.jar')
+//}
